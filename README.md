@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @AbdulAzeez
+- 👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence domains
+- 🌱 I’m currently learning a Data Science specialization degree at SLIIT in Sri Lanka
+- 💞️ I’m looking to collaborate on open source LLM and AI, DS,  Data Analytics and etc
+- 📫 How to reach me abdulazeezirf201@gmail.com abdxl_azeaz on Instagram and abdulazeez1479 on Discord
+- Hit me up
